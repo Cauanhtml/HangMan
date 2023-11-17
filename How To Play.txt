@@ -1,0 +1,29 @@
+					
+
+					HOW TO PLAY THE GAME
+
+1.Open HangMan.exe
+
+2.A command prompt (game) will appear, and it will say:
+
+	"To play in English, type: English"
+
+3.To play with everything in English, type English.
+
+4.After that, just enter the word that you will discover shortly (it's more fun with 2 players).
+
+5.It will then ask you to enter a letter. The rule is:
+
+6.Choose a letter from the word; repeated letters will deduct one of your lives.
+
+7.The game is very basic and not at all professional XD.
+
+8.To edit the game, if you know programming, open Main.cpp and program as you like. It's open-source.
+
+	Have fun XD!
+
+
+Created By Cpriany 
+
+Created in C++ Code:Blocks
+

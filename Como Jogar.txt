@@ -1,0 +1,31 @@
+				
+
+					COMO JOGAR O GAME 
+
+
+
+
+1.Abra o HangMan.exe
+
+2.Aparecerá um prompt de comando (jogo) que vai estar escrito:
+
+	"to play in English type : English"
+
+3.Para jogar com tudo ingles, escreva English
+
+4.logo depois é só escrever a palavra que você ira descobrir logo em seguida (é mais legal com 2 players)
+
+5.depois vai pedir para voce digitar uma letra, a regra é:
+
+6.Escolha a letra da palavra, letras repetidas tiraram uma vida sua
+
+7.O Jogo é muito básico e nada profissional XD
+
+8.Para editar o jogo, se você sabe de programação, abra o Main.cpp e programe avontade, codigo aberto
+
+	Boa Diversão kkkk
+
+
+Created By Cpriany 
+
+Created in C++ Code:Blocks
